@@ -1,0 +1,12 @@
+Body{
+    background-color: aquamarine;
+}
+.events{
+    background-color: azure;
+}
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width:50%;
+}
